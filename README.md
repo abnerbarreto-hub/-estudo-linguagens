@@ -176,9 +176,6 @@ O Windows foi inspirado nas interfaces gráficas que surgiram no Xerox PARC.
 
 * Melhor desempenho
 * Foco em produtividade e jogos
-https://support.microsoft.com/images/en-us/f5e07aee-c8aa-4a30-85ec-215178f491b8
-
-https://cdn.mos.cms.futurecdn.net/RkdMUEKBjTNm26v48KMaFW-1920-80.jpg
 
 # 🏢 Versões Corporativas (Windows NT)
 
