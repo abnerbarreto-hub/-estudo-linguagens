@@ -173,6 +173,9 @@ O Windows foi inspirado nas interfaces gráficas que surgiram no Xerox PARC.
 ## 🟦 5. Geração Atual
 
 ### 🔹 Windows 11 (2021)
+![sla] (<a href="https://logo-teka.com/pt-br/windows-11/"><img src="https://logo-teka.com/wp-content/uploads/2025/07/windows-11-logo.svg" alt="SVG logo Windows 11" style="max-width:200px;" /></a>)
+
+"[sla] (https://iconlogovector.com/uploads/images/2024/09/lg-66efed39689d5-Microsoft-Windows-11.webp)
 
 * Melhor desempenho
 * Foco em produtividade e jogos
